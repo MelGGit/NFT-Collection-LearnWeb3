@@ -1,4 +1,4 @@
 import CryptoDevsJson from '../../smart-contracts/artifacts/contracts/CryptoDevs.sol/CryptoDevs.json'
 const CryptoDevsAbi = CryptoDevsJson.abi
 export const abi = CryptoDevsAbi
-export const NFT_CONTRACT_ADDRESS = "0xe24AE1aD4d6B4a697e2FB1bc71226C7837FfEbea"
+export const NFT_CONTRACT_ADDRESS = "0xf228Db06d5cf6266699beD41e0BD179Cd6fB0855"
